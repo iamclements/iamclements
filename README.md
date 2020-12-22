@@ -1,4 +1,4 @@
-### Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hello World! :wave::smiley:
 
 ----------------------------------------------------------------------------
 ### About
@@ -10,6 +10,9 @@ the University of North Carolina Wilmington.
 -------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamclements&show_icons=true)
+
+<img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
 
 -------------------------------------------------------------------------------------------------------------------
 
