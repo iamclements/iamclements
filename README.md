@@ -9,9 +9,5 @@ the University of North Carolina Wilmington.
 
 -------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iamclements&show_icons=true&theme=algolia&count_private=true)
-
--------------------------------------------------------------------------------------------------------------------
-
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Clements-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-clements-26476313a//)](https://www.linkedin.com/in/daniel-clements-26476313a/) [![Gmail Badge](https://img.shields.io/badge/-daniel@clements.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel@clements.tech)](mailto:daniel@clements.tech)
 
