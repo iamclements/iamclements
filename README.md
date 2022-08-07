@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------
 ### About
--  **Education :** Currently pursing a B.S. in Computer Science from
+-  **Education :** B.S. Computer Science from
 the University of North Carolina Wilmington.
 -  **Languages :** Python, Java, HTML, CSS
 -  **Learning :** JavaScript, Objecive C & React.js
