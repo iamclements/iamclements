@@ -5,6 +5,5 @@
 -  **Education :** B.S. Computer Science from
 the University of North Carolina Wilmington.
 -------------------------------------------------------------------------------------------------------------------
-https://img.shields.io/badge/any_text-you_like-blue
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Clements-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clementsd/)](https://www.linkedin.com/in/clementsd/) [![Gmail Badge](https://img.shields.io/badge/-daniel@clements.work-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel@clements.it.com)](mailto:daniel@clements.it.com)
 
