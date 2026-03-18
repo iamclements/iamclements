@@ -1,15 +1,29 @@
-# Hi there, I'm Daniel 👋
+# 👋 Hey, I'm Daniel
 
-Welcome to my GitHub profile! I'm a **Cloud Systems Admin** with a passion for technology, automation, and problem-solving. I enjoy working on projects that make systems more efficient and reliable.
+> _Cloud Systems Administrator • Automation Advocate • Problem Solver_
+
+Welcome! I’m Daniel, a Cloud Systems Administrator passionate about building secure, efficient, and resilient infrastructure. My focus is on reliability, automation, and making technology seamless for teams and users.
 
 ---
 
-## 📂 Projects
-Here are a few things I've been working on:
-- **[danielclements.com](https://github.com/iamclements/danielclements.com):** My personal website built with Hugo, featuring the Hermit-V2 theme, and deployed with Cloudflare Pages.
-- **[ReplayTagger](https://github.com/iamclements/ReplayTagger):** Script to add game-specific metadata to NVIDIA Instant Replay clips for automatic organization in Plex. 
+## 🛠️ What I Do
 
-Feel free to explore my repositories for more!
+- Design, deploy, and maintain cloud infrastructure (AWS, Azure, GCP)
+- Automate repetitive tasks and processes with scripts and tools
+- Monitor, troubleshoot, and optimize systems for performance and uptime
+- Advocate for best practices in security, backup, and disaster recovery
+
+---
+
+## 🌱 Always Learning
+
+I’m always exploring new technologies, from infrastructure-as-code to containerization and beyond. My GitHub is a mix of personal experiments, learning notes, and the occasional open-source contribution.
+
+---
+
+## 🌐 Featured Project
+
+- **[danielclements.com](https://github.com/iamclements/danielclements.com):** My personal website, built with Hugo and the Hermit-V2 theme, deployed on Cloudflare Pages.
 
 ---
 
@@ -20,4 +34,4 @@ Feel free to explore my repositories for more!
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by! If you want to talk cloud, automation, or just say hi, feel free to reach out. ☁️
